@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I graduated from University of Computer Studies (Pakokku), Myanmar.
 <!--
 **ayarhlaine/ayarhlaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
